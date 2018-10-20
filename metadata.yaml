@@ -1,5 +1,5 @@
 _repo: Quotations-from-John-L-Motley-Works_5133
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -35,5 +35,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Quotations'
 - !lcc 'DH'
+- GITenberg
 title: Quotations from John L. Motley Works
 url: http://www.gutenberg.org/ebooks/5133
